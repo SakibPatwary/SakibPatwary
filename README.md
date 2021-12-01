@@ -14,7 +14,7 @@
 <a href="shakibpatwary001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 </br>
-#### 👨🏻‍💻 Languages and Tools <br />
+#### 👨🏻‍💻 Languages and Tools
 
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
