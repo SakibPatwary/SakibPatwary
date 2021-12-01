@@ -22,3 +22,18 @@
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+</br>
+
+🤖 Most used Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TangoRomeo80&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+📊 Stats:
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TangoRomeo80&show_icons=true&theme=radical)  
+  
+🔁 Streak:
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TangoRomeo80&theme=radical)  
+
+![Profile views](https://gpvc.arturio.dev/TangoRomeo80)  
