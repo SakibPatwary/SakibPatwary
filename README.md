@@ -11,7 +11,6 @@
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sakib-patwary-11511217b/)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sakkurian)  &nbsp; 
-<a href="shakibpatwary001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 </br>
 
@@ -24,9 +23,6 @@
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 </br>
 
-🤖 Most used Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakibPatwary&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 📊 Stats:
   
