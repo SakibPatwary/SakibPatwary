@@ -3,11 +3,9 @@
 
 
 - 🔭 I’m currently working on **a IT Farm**
-- - ⚡ Fun fact : **I love to travel & playing video games**
-- <br>
+- ⚡ Fun fact : **I love to travel & playing video games**<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/SakibPatwary?tab=repositories](https://github.com/SakibPatwary?tab=repositories)
-- <br>
+- 👨‍💻 All of my projects are available at [https://github.com/SakibPatwary?tab=repositories](https://github.com/SakibPatwary?tab=repositories)<br>
 
 - 📫 How to reach me **shakibpatwary001@gmail.com**
 
@@ -20,7 +18,7 @@
 <a href="https://linkedin.com/in/sakib-patwary-11511217b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakib-patwary-11511217b" height="30" width="40" /></a>
 <a href="https://fb.com/sakkurian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakkurian" height="30" width="40" /></a>
 <a href="https://instagram.com/_sakiib_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sakiib_" height="30" width="40" /></a>
-<a href="https://discord.gg/usrXXE73QA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="usrXXE73QA" height="30" width="40" /></a>
+<a href="https://discord.gg/usrXXE73QA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sw9zgHZcsH" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
