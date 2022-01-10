@@ -2,7 +2,7 @@
 <h3 align="center">---->A passionate frontend developer from Bangladesh<----</h3>
 <br>
 
-- 🔭 I’m currently working on **a Web Development Company.
+- 🔭 I’m currently working on a Web Development Company.
 <br>
 
 - 🌱 I’m currently learning.
