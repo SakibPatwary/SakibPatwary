@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm SAKIB PATWARY</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">---->A passionate frontend developer from Bangladesh<----</h3>
 <br>
 
-- 🔭 I’m currently working on **a Web Development Company**
+- 🔭 I’m currently working on **a Web Development Company.
 <br>
 
 - 🌱 I’m currently learning.
-- ⚡ Fun fact : **I love to travel & playing video games**
-<br>
-- 👨‍💻 All of my projects are available at [https://github.com/SakibPatwary?tab=repositories](https://github.com/SakibPatwary?tab=repositories)
-<br>
-- 📫 How to reach me : **shakibpatwary001@gmail.com**
+- ⚡ Fun fact : I love to travel & playing video games.
+- 👨‍💻 All of my projects are available at My Repositories.
+  <br>
+- 📫 How to reach me : shakibpatwary001@gmail.com
 <br>
 
 <h3 align="left">Connect with me:</h3>
