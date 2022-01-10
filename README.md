@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAKIB PATWARY</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibpatwary&label=Profile%20views&color=0e75b6&style=flat" alt="sakibpatwary" /> </p>
 
 - 🔭 I’m currently working on **a IT Farm**
 - - ⚡ Fun fact : **I love to travel & playing video games**
@@ -32,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakibpatwary&show_icons=true&locale=en" alt="sakibpatwary" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibpatwary&" alt="sakibpatwary" /></p><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibpatwary&label=Profile%20views&color=0e75b6&style=flat" alt="sakibpatwary" /> </p>
