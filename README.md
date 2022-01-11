@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning.
 - ⚡ Fun fact : I love to travel & playing video games.
-- 👨‍💻 All of my projects are available at My Repositories.
+- 👨‍💻 All of my projects are available in My Repositories.
 <br>
 - 📫 How to reach me : shakibpatwary001@gmail.com
 <br>
