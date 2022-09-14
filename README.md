@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAKIB PATWARY</h1>
-<h3 align="center">---->A passionate frontend developer from Bangladesh<----</h3>
+<h3 align="center">---->A passionate Web Developer from Bangladesh<----</h3>
 <br>
 
 - 🔭 I’m currently working on a Web Development Company.
