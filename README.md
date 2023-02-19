@@ -47,11 +47,11 @@
 
 <br/>  
 
-<table><tr><td border='none' valign="top" width="50%" align='center'>
+<table><tr><td width="50%" align='center'>
 
 ![](https://github-readme-stats.vercel.app/api?username=sakibpatwary&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-</td><td valign="top" width="50%" align='center'>
+</td><td  width="50%" align='center'>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakibpatwary&theme=radical&hide_border=true)<br/>
 
@@ -60,13 +60,13 @@
   
   
   
-  <table><tr><td border='none' valign="top" width="100%" align='center'>
+  <table><tr width="100%" align='center'>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibpatwary&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-</td></tr></table>  
+</tr></table>  
   
 
 <br />
