@@ -64,7 +64,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibpatwary&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </td><td  width="50%" align='center'>
-    #### **<div align="center">✍️ Random Dev Quote</div>**  
+   <div align="center">✍️ Random Dev Quote</div> 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
