@@ -71,7 +71,7 @@
   <br/> 
   
 
-![](https://github.com/SakibPatwary/SakibPatwary/blob/main/SakibPatwary.png)  
+(https://github.com/SakibPatwary/SakibPatwary/blob/main/SakibPatwary.png)  
 
 <br />
 
