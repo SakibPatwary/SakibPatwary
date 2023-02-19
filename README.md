@@ -1,4 +1,6 @@
-![Intro Imaage](https://github.com/SakibPatwary/SakibPatwary/blob/main/Sakib%20Patwary.png)  
+<div align="center">
+<img src="https://github.com/SakibPatwary/SakibPatwary/blob/main/Sakib%20Patwary.png" align="center" height="" width="" />
+</div>  
 
 ## **<div align="center">Hi 👋, I'm SAKIB PATWARY</div>**  
   
