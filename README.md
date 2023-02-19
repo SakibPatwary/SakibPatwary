@@ -1,4 +1,4 @@
-![Intro Imaage](https://github.com/SakibPatwary/SakibPatwary/blob/main/Sakib%20Patwary.gif)  
+![Intro Imaage](https://github.com/SakibPatwary/SakibPatwary/blob/main/Sakib%20Patwary.png)  
 
 ## **<div align="center">Hi 👋, I'm SAKIB PATWARY</div>**  
   
