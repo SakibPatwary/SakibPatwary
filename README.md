@@ -71,9 +71,10 @@
   <br/> 
   
 
-(https://github.com/SakibPatwary/SakibPatwary/blob/main/SakibPatwary.png)  
+  <div align="center">
+<img src="https://github.com/SakibPatwary/SakibPatwary/blob/main/SakibPatwary.png" align="center" style="width: 100%" />
+</div> 
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
