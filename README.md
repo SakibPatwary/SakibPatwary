@@ -49,7 +49,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakibpatwary&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![](https://github-readme-stats.vercel.app/api?username=sakibpatwary&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 </td><td valign="top" width="50%">
 
