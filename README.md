@@ -53,7 +53,8 @@
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibpatwary&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibpatwary&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 </td></tr></table>  
 
