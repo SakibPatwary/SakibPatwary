@@ -1,11 +1,6 @@
 
 
 ## **<div align="center">Hi 👋, I'm SAKIB PATWARY</div>**  
-
-
-<div align="center">
-<img src="https://github.com/SakibPatwary/SakibPatwary/blob/main/SakibPatwary.png" align="center" />
-</div>  
   
 
 #### **<div align="center">---->A passionate Software Developer from Bangladesh<----</div>**  
@@ -91,6 +86,14 @@
 </td></tr></table>  
 
 <br/>  
+  
+  
+
+<div align="center">
+<img src="https://github.com/SakibPatwary/SakibPatwary/blob/main/SakibPatwary.png" align="center" />
+</div>  
+  
+  <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SakibPatwary&&style=flat-square" align="center" />
