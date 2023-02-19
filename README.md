@@ -47,7 +47,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td border-'none' valign="top" width="50%">
 
 ![](https://github-readme-stats.vercel.app/api?username=sakibpatwary&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
