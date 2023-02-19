@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/SakibPatwary/SakibPatwary/blob/main/Sakib%20Patwary.png" align="center" height="200" width="700" />
+<img src="https://github.com/SakibPatwary/SakibPatwary/blob/main/Sakib%20Patwary.png" align="center" />
 </div>  
 
 ## **<div align="center">Hi 👋, I'm SAKIB PATWARY</div>**  
