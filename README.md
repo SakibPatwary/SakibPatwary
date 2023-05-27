@@ -61,7 +61,7 @@
   
   <table><tr><td width="50%" align='center'>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibpatwary&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibpatwary&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </td><td  width="50%" align='center'>
    <div align="center">✍️ Random Dev Quote</div> 
