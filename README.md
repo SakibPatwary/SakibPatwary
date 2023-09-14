@@ -82,10 +82,6 @@
   <br/> 
   
 
-  <div align="center">
-<img src="https://github.com/SakibPatwary/SakibPatwary/blob/main/SakibPatwary.png" align="center" style="width: 100%" />
-</div> 
-
 <br />
 
 ----
