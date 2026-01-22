@@ -16,7 +16,7 @@
 - ⚡ Fun Facts : I love to travel & play video games.  
   
 
-- 📫 You Can Reach Me from : [My Portfolio ](https://sakibpatwary.github.io/ target="_blank")  
+- 📫 You Can Reach Me from : [My Portfolio ](https://sakibpatwary.github.io/)  
   
 
 #### **<div align="center">🌐 SOCIALS</div>**  
